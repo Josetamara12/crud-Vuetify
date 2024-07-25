@@ -1,0 +1,6 @@
+# Configura todos los archivos de texto para usar LF
+* text=auto
+
+# Configura archivos específicos para usar CRLF
+*.bat text eol=crlf
+*.sql text eol=crlf
